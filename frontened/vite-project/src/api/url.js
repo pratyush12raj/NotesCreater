@@ -2,7 +2,7 @@
 import axios from 'axios'
 
 const BACKENF_URL = axios.create({
-    baseURL:" http://localhost:3000/noteapp/"
+    baseURL:"https://notescreater-backend-y5yc.onrender.com/noteapp/"
 })
 
 
